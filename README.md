@@ -46,26 +46,22 @@ I am a highly driven full-stack developer and system optimizer. I specialize in 
 ## 📊 Git Analytics & Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeon-cvc&show_icons=true&theme=dark&hide_border=false&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" alt="ZEON's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeon-cvc&theme=dark&hide_border=false&fire=ff69b4&ring=ff69b4&text=ffffff&bg=0d1117" alt="ZEON's Streak Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeon-cvc&theme=dark&hide_border=false&fire=ff69b4&ring=ff69b4&text=ffffff&bg=0d1117" alt="ZEON's Streak Stats" width="80%" />
 </p>
 
 ---
 
-## 🌐 Connect & Live Status
+## 🌐 Connect With Me
 
-Want to collaborate on a next-gen web platform, implement an AI system, or talk optimization? Drop me a message!
+Want to collaborate on a next-gen web platform, implement an AI system, or talk optimization? Let's connect! 
 
 <p align="left">
   <a href="https://instagram.com/zeon.cvc" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>
-
-### 💬 My Live Discord Status
-This widget shows my actual Discord handle and updates in real-time to show if I'm online working or gaming!
-<p align="left">
-  <img src="https://lanyard.onrender.com/api/1066378170889248839" alt="Discord Status" />
+  <a href="https://discordapp.com/users/1475763398531612693" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 ---
