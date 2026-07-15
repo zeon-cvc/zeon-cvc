@@ -1,7 +1,11 @@
 # Hi there, I'm ZEON! 🌸✨ 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeon-cvc&label=Profile%20Views&color=ff69b4&style=flat-square" alt="ZEON Profile Views" />
+  <img src="./banner.svg" alt="Zeon System Core Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeon-cvc&label=Profile%20Views&color=a855f7&style=flat-square" alt="ZEON Profile Views" />
 </p>
 
 <p align="center">
@@ -45,7 +49,7 @@ When I'm not writing lines of code, I'm diving into games, tweaking performance 
 ### 📊 Performance & Git Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeon-cvc&theme=dark&hide_border=false&fire=ff69b4&ring=ff69b4&text=ffffff&bg=0d1117" alt="ZEON's Streak Stats" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeon-cvc&theme=tokyonight&hide_border=false&fire=f472b6&ring=a855f7&text=a78bfa&stroke=a855f7&currStreakNum=f472b6&sideLabels=94a3b8&bg=0d041c" alt="ZEON's Streak Stats" width="80%" />
 </p>
 
 ---
